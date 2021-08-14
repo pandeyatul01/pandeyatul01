@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Coding
 - 🌱 I’m currently learning ...Front-End Development
 - 💞️ I’m looking to collaborate on ...some webpages related projects
-- 📫 How to reach me ...instagram- pandeyatul01
+- 📫 How to reach me ...email-pandeyatulhrc01@gmail.com
 
 <!---
 pandeyatul01/pandeyatul01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
